@@ -1,0 +1,5 @@
+[
+  { "nombre": "Remera Oversize", "precio": 15000, "stock": 10 },
+  { "nombre": "Buzo Hoodie", "precio": 32000, "stock": 6 },
+  { "nombre": "Pantalón Cargo", "precio": 28000, "stock": 8 }
+]
